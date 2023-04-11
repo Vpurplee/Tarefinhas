@@ -3,7 +3,7 @@
 
  
 
-##FUNCIONALIDADES: 
+## FUNCIONALIDADES: 
 
 &#x02713 Adiciona nas anotações tarefas; 
 
@@ -15,6 +15,6 @@
 
 &#x02713 Botão para excluir tarefas; 
 
-##ATUALIZAÇÕES 
+## ATUALIZAÇÕES 
  
 &#x02717 Ainda não foi feito nenhuma 
