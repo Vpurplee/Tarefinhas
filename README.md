@@ -5,16 +5,16 @@
 
 ##FUNCIONALIDADES: 
 
-&check Adiciona nas anotações tarefas; 
+&#x02713 Adiciona nas anotações tarefas; 
 
-&check Pesquisa as tarefas criadas de acordo com o nome; 
-&check Filtra entre TODOS, FEITOS e A FAZER; 
-&check Botão para concluir tarefa; 
+&#x02713 Pesquisa as tarefas criadas de acordo com o nome; 
+&#x02713 Filtra entre TODOS, FEITOS e A FAZER; 
+&#x02713 Botão para concluir tarefa; 
 
-&check Botão que abre aba para editar tarefas; 
+&#x02713 Botão que abre aba para editar tarefas; 
 
-&check Botão para excluir tarefas; 
+&#x02713 Botão para excluir tarefas; 
 
 ##ATUALIZAÇÕES 
  
-&cross Ainda não foi feito nenhuma 
+&#x02717 Ainda não foi feito nenhuma 
