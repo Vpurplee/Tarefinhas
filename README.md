@@ -1,9 +1,6 @@
 # Tarefinhas
  
-
- 
-
-##Funcionalidades:
+ Funcionalidades:
 ##
 Adicionar tarefas: Você pode adicionar novas tarefas utilizando o campo de texto e o botão de adicionar (+).
 Editar tarefas: Ao clicar no ícone de edição (lápis), a tarefa pode ser editada.
