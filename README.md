@@ -1,7 +1,6 @@
 # Tarefinhas
  
 # Funcionalidades:
-##
 Adicionar tarefas: Você pode adicionar novas tarefas utilizando o campo de texto e o botão de adicionar (+).<br>
 Editar tarefas: Ao clicar no ícone de edição (lápis), a tarefa pode ser editada.<br>
 Concluir tarefas: Ao clicar no ícone de verificação (marca de verificação), a tarefa é marcada como concluída e é exibida com um estilo diferente.<br>
